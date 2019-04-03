@@ -15,7 +15,7 @@ A list of our data reporting, analyses, and code.
 
 ## Interactives
 
-| Repo | Description |
-|------|-------------|
-| [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. |
-| [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. |
+| Repo | Description | Author |
+|------|-------------|--------|
+| [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
+| [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. | [Jason](https://github.com/jsonkao) |
