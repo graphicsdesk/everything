@@ -26,4 +26,4 @@ A list of our data reporting, analyses, and code.
 ## Future projects
 
 * Easy conversion of Google Docs text to code
-  * Retains archie format but converts paragraphs and links to HTML
+  * Retains archie format but converts paragraphs, styles, and links to HTML
