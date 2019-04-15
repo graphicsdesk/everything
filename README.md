@@ -6,7 +6,7 @@ A list of our data reporting, analyses, and code.
 
 | Repo | Description | Contact |
 |------|-------------| ------- |
-| [`gss-diversity`](https://github.com/spec-journalism/gss-diversity) | Data and analysis of Columbia graduate student diversity. | [Raeedah](https://github.com/raeedahw), [Jason](https://github.com/jsonkao) |
+| [`gss-diversity`](https://github.com/spec-journalism/gss-diversity) | Data and analysis of Columbia graduate student diversity. | [Jason](https://github.com/jsonkao) |
 | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
 | [`homeless-center`](https://github.com/spec-journalism/homeless-center) | Data and analysis contextualizing homeless services at  Columbia. | [Raeedah](https://github.com/raeedahw) |
 | [`turkey`](https://github.com/spec-journalism/turkey) | Data, analysis, and code for Turkey's panel cancellation article. | [Jason](https://github.com/jsonkao) |
