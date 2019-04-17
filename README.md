@@ -27,4 +27,5 @@ A list of our data reporting, analyses, and code.
 
 * Easy conversion of Google Docs text to code
   * Retains archie format but converts paragraphs, styles, and links to HTML
+* Starter CLI to easily access all templaltes
 * Standard style template for interactive projects (like The Pudding starter for web pages)
