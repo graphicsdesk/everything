@@ -7,6 +7,7 @@ A list of our data reporting, analyses, and code.
 | Repo | Description | Contact |
 |------|-------------| ------- |
 | [`gss-diversity`](https://github.com/spec-journalism/gss-diversity) | Data and analysis of Columbia graduate student diversity. | [Jason](https://github.com/jsonkao) |
+| [`visits-who`](https://github.com/spec-journalism/visits-who) | Data and analysis of Columbia Undergraduate Admissions events scraping project. | [Jason](https://github.com/jsonkao) |
 | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
 | [`homeless-center`](https://github.com/spec-journalism/homeless-center) | Data and analysis contextualizing homeless services at  Columbia. | [Raeedah](https://github.com/raeedahw) |
 | [`turkey`](https://github.com/spec-journalism/turkey) | Data, analysis, and code for Turkey's panel cancellation article. | [Jason](https://github.com/jsonkao) |
@@ -19,6 +20,7 @@ A list of our data reporting, analyses, and code.
 
 | Repo | Description | Developer |
 |------|-------------|-----------|
+| [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity Lead | [Jason](https://github.com/jsonkao) |
 | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
 | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. | [Jason](https://github.com/jsonkao) |
 
