@@ -20,7 +20,8 @@ A list of our data reporting, analyses, and code.
 
 | Repo | Description | Developer |
 |------|-------------|-----------|
-| [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity Lead | [Jason](https://github.com/jsonkao) |
+| [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
+| [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
 | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
 | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. | [Jason](https://github.com/jsonkao) |
 
