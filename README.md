@@ -18,7 +18,7 @@ A list of our data reporting, analyses, and code.
 
 ## Interactives
 
-| Repo | Description | Developer |
+| Repo | Description | Developer(s) |
 |------|-------------|-----------|
 | [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
 | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
