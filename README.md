@@ -25,7 +25,7 @@ A list of all our data analysis and interactives.
 | [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. | [Jason](https://github.com/jsonkao) |
 
 
-## Future projects
+## Tool Ideas
 
 * Easy conversion of Google Docs text to code
   * Retains AML format but converts paragraphs, styles, and links to HTML
