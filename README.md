@@ -1,6 +1,6 @@
 # Everything
 
-A list of our data reporting, analyses, and code.
+A list of all our data, analyses, and interactives.
 
 ## Data reporting
 
