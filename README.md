@@ -1,8 +1,8 @@
 # Everything
 
-A list of all our data, analyses, and interactives.
+A list of all our data analysis and interactives.
 
-## Data reporting
+## Data Reporting
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
@@ -12,7 +12,6 @@ A list of all our data, analyses, and interactives.
 | [:link:](https://www.columbiaspectator.com/the-eye/2019/04/24/in-the-1980s-columbia-ran-a-homeless-shelter-what-are-we-doing-now/) | [`homeless-center`](https://github.com/spec-journalism/homeless-center) | Data and analysis contextualizing homeless services at  Columbia. | [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/news/2019/04/04/cancelled-panel-on-turkish-rule-of-law-sparks-debate-around-foreign-political-pressure-academic-freedom-at-columbia/) | [`turkey`](https://github.com/spec-journalism/turkey) | Data, analysis, and code for Turkey's panel cancellation article. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/04/24/extra-baggage-the-difficulties-graduate-students-and-postdocs-face-navigating-columbia-on-a-visa/) | [`international-students`](https://github.com/spec-journalism/international-students) | Data analysis and graphics supporting the International Students lead. | [Jason](https://github.com/jsonkao) |
-| | [`cyrus-finance`](https://github.com/spec-journalism/cyrus-finance) | Analyzing contributions to Cyrus Vance's DA campaign. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`financial-aid`](https://github.com/spec-journalism/financial-aid) | Data analysis underlying the original analysis reported in the net price inequity article. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/2019/04/04/cancelled-panel-on-turkish-rule-of-law-sparks-debate-around-foreign-political-pressure-academic-freedom-at-columbia/) | [`foreign-gifts`](https://github.com/spec-journalism/foreign-gifts) | Analyzing monetary gifts from foreign entities to Columbia University. | [Jason](https://github.com/jsonkao) |
 
