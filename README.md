@@ -2,6 +2,14 @@
 
 A list of all our data analysis and interactives. Co-bylining/educational opportunities for data stories and interactives are kept in the [`projects`](https://github.com/spec-journalism/projects) repository.
 
+## Table of Contents
+
+- [Data Stories](#data-stories)
+- [Interactive Feautres](#interactive-features)
+- [Data Analysis](#data-analysis)
+
+---
+
 ## Data Stories
 
 | Article | Repo | Description | Developer(s) |
@@ -16,7 +24,7 @@ A list of all our data analysis and interactives. Co-bylining/educational opport
 | [:link:](https://www.columbiaspectator.com/eye/uptown-arts/) | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye/2019/03/26/genealogy/) | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
 
-## Data Reporting
+## Data Analysis
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
