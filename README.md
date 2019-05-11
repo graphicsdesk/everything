@@ -7,6 +7,7 @@ A list of all our data analysis and interactives. Co-bylining/educational opport
 - [Data Stories](#data-stories)
 - [Interactive Feautres](#interactive-features)
 - [Data Analysis](#data-analysis)
+- [Tool Ideas](#tool-ideas)
 
 ---
 
@@ -43,5 +44,5 @@ A list of all our data analysis and interactives. Co-bylining/educational opport
 * Easy conversion of Google Docs text to code
   * Retains AML format but converts paragraphs, styles, and links to HTML
   * CLI to easily convert a Google Doc with an AML section into a scrollytelling piece (with different templates??!!)
-* Starter CLI to easily access all templaltes
+* Starter CLI to easily access all templaltes (see [POLITICO](https://github.com/The-Politico/generator-politico-interactives), [The Pudding](https://github.com/the-pudding/starter/))
 * Standard style template for interactive projects (like The Pudding starter for web pages)
