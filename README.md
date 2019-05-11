@@ -1,6 +1,6 @@
 # Everything
 
-A list of all our data analysis and interactives.
+A list of all our data analysis and interactives. Co-bylining/educational opportunities for data stories and interactives are kept in the [`projects`](https://github.com/spec-journalism/projects) repository.
 
 ## Data Reporting
 
