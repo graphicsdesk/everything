@@ -16,7 +16,7 @@ A list of all our data analysis and interactives.
 | Article | Repo | Description | Developer(s) |
 |:-------:|------|-------------|-----------|
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
-| [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the net price inequity article. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the Net Price Inequity article. | [Jason](https://github.com/jsonkao) |
 
 ## Interactive Features
 
