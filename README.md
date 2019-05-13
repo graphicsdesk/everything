@@ -46,3 +46,4 @@ A list of all our data analysis and interactives.
   * CLI to easily convert a Google Doc with an AML section into a scrollytelling piece (with different templates??!!)
 * Starter CLI to easily access all templaltes (see [POLITICO](https://github.com/The-Politico/generator-politico-interactives), [The Pudding](https://github.com/the-pudding/starter/))
 * Standard style template for interactive projects (like The Pudding starter for web pages)
+* During compilation/building, putting sticky polyfill onto `position: sticky` objects with dynamic uid's?
