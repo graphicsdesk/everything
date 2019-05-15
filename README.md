@@ -22,6 +22,7 @@ A list of all our data analysis and interactives.
 
 | Article | Repo | Description | Developer(s) |
 |:-------:|------|-------------|-----------|
+| [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye/uptown-arts/) | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye/2019/03/26/genealogy/) | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
 
