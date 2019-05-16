@@ -31,7 +31,7 @@ A list of all our data analysis and interactives.
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
-| | [`visits-who`](https://github.com/spec-journalism/visits-who) | Data and analysis of Columbia Undergraduate Admissions events scraping project. | [Jason](https://github.com/jsonkao) |
+| | [`visits-who`](https://github.com/spec-journalism/visits-who) | Scraping and analysis of Columbia Undergraduate Admissions outreach. | [Jason](https://github.com/jsonkao) |
 | | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`gss-diversity`](https://github.com/spec-journalism/gss-diversity) | Data and analysis of Columbia graduate student diversity. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/the-eye/2019/04/24/in-the-1980s-columbia-ran-a-homeless-shelter-what-are-we-doing-now/) | [`homeless-center`](https://github.com/spec-journalism/homeless-center) | Data and analysis contextualizing homeless services at  Columbia. | [Raeedah](https://github.com/raeedahw) |
