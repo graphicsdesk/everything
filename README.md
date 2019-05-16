@@ -1,6 +1,6 @@
 # Everything
 
-A list of all our data analysis and interactives.
+A list of all our data and graphics reporting.
 
 ## Table of Contents
 
