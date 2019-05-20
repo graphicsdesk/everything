@@ -44,6 +44,7 @@ A list of all our data and graphics reporting.
 
 | Demo | Repo | Description | Developer(s) |
 |:----:|------|-------------|--------------|
+| | [`spec-kit`](https://github.com/spec-journalism/spec-kit) | Styles and components commonly used by interactives and news features. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/vertical-photo-essay/) | [`vertical-photo-essay`](https://github.com/spec-journalism/vertical-photo-essay) | Photo essay template for vertical images. | [Jason](https://github.com/jsonkao) |
 
 ## Tool Ideas
