@@ -2,6 +2,8 @@
 
 A list of all our data and graphics reporting.
 
+_“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
+
 ## Table of Contents
 
 - [Data Stories](#data-stories)
