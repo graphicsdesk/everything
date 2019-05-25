@@ -58,4 +58,4 @@ _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 * Standard style template for interactive projects (like The Pudding starter for web pages)
 * During compilation/building, putting sticky polyfill onto `position: sticky` objects with dynamic uid's?
 * ai2html
-  * Adding backgrounds to text like in SVG
+  * Standardize the config, put it somewhere
