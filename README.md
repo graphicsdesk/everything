@@ -8,6 +8,9 @@ _“The greatest value of a picture is when it forces us to notice what we never
 
 _"The purpose of visualization is insight, not pictures." —Ben Shneiderman_
 
+_"Las estadísticas hablan de todos, es decir, de nadie." —Jaime Serra_. ("The statistics speak of everyone, that is, of nobody.")
+
+
 ## Table of Contents
 
 - [Data Stories](#data-stories)
