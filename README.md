@@ -54,14 +54,3 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 |:----:|------|-------------|--------------|
 | | [`spec-kit`](https://github.com/spec-journalism/spec-kit) | Styles and components commonly used by interactives and news features. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/vertical-photo-essay/) | [`vertical-photo-essay`](https://github.com/spec-journalism/vertical-photo-essay) | Photo essay template for vertical images. | [Jason](https://github.com/jsonkao) |
-
-## Tool Ideas
-
-* Easy conversion of Google Docs text to code
-  * Retains AML format but converts paragraphs, styles, and links to HTML
-  * CLI to easily convert a Google Doc with an AML section into a scrollytelling piece (with different templates??!!)
-* Starter CLI to easily access all templaltes (see [POLITICO](https://github.com/The-Politico/generator-politico-interactives), [The Pudding](https://github.com/the-pudding/starter/))
-* Standard style template for interactive projects (like The Pudding starter for web pages)
-* During compilation/building, putting sticky polyfill onto `position: sticky` objects with dynamic uid's?
-* ai2html
-  * Standardize the config, put it somewhere
