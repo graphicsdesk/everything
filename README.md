@@ -6,9 +6,11 @@ _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 
 _“The greatest value of a picture is when it forces us to notice what we never expected to see.” —John Tukey_
 
-_"The purpose of visualization is insight, not pictures." —Ben Shneiderman_
+_“The purpose of visualization is insight, not pictures.” —Ben Shneiderman_
 
-_"Las estadísticas hablan de todos, es decir, de nadie." —Jaime Serra_. ("The statistics speak of everyone, that is, of nobody.")
+_“Las estadísticas hablan de todos, es decir, de nadie.” —Jaime Serra_. ("The statistics speak of everyone, that is, of nobody.")
+
+_“In short, we use data to find and tell stories. Stories that make a difference. Stories that otherwise would not be told.”_
 
 
 ## Table of Contents
@@ -21,26 +23,23 @@ _"Las estadísticas hablan de todos, es decir, de nadie." —Jaime Serra_. ("The
 
 ---
 
-## Data Stories
+## Visual Stories
 
-| Article | Repo | Description | Developer(s) |
+| Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
-| [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
-| [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the Net Price Inequity article. | [Jason](https://github.com/jsonkao) |
-
-## Interactive Features
-
-| Article | Repo | Description | Developer(s) |
-|:-------:|------|-------------|--------------|
+| [:newspaper:] | [`survey-2023-print`](https://github.com/spec-journalism/survey-2023-print) | Analysis and visualization for the 2023 Survey print story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`graduate-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye/uptown-arts/) | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye/2019/03/26/genealogy/) | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the Net Price Inequity article. | [Jason](https://github.com/jsonkao) |
 
-## Data Analysis
+## Data Reporting
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
 | | [`visits-who`](https://github.com/spec-journalism/visits-who) | Scraping and analysis of Columbia Undergraduate Admissions outreach. | [Jason](https://github.com/jsonkao) |
+| | [`survey-2023`](https://github.com/spec-journalism/survey-2023) | Analysis and visualization of the Class of 2023 incoming freshman survey. | [Jason](https://github.com/jsonkao) |
 | | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`gss-diversity`](https://github.com/spec-journalism/gss-diversity) | Data and analysis of Columbia graduate student diversity. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/the-eye/2019/04/24/in-the-1980s-columbia-ran-a-homeless-shelter-what-are-we-doing-now/) | [`homeless-center`](https://github.com/spec-journalism/homeless-center) | Data and analysis contextualizing homeless services at  Columbia. | [Raeedah](https://github.com/raeedahw) |
@@ -51,7 +50,7 @@ _"Las estadísticas hablan de todos, es decir, de nadie." —Jaime Serra_. ("The
 
 ## Templates
 
-| Demo | Repo | Description | Developer(s) |
+| Demo | Repo | Description | Contact |
 |:----:|------|-------------|--------------|
 | | [`spec-kit`](https://github.com/spec-journalism/spec-kit) | Styles and components commonly used by interactives and news features. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/vertical-photo-essay/) | [`vertical-photo-essay`](https://github.com/spec-journalism/vertical-photo-essay) | Photo essay template for vertical images. | [Jason](https://github.com/jsonkao) |
