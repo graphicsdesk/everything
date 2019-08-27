@@ -15,11 +15,9 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 ## Table of Contents
 
-- [Data Stories](#data-stories)
-- [Interactive Feautres](#interactive-features)
-- [Data Analysis](#data-analysis)
+- [Visual Stories](#visual-stories)
+- [Data Reporting](#data-reporting)
 - [Templates](#templates)
-- [Tool Ideas](#tool-ideas)
 
 ---
 
