@@ -36,6 +36,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
+| | [`class-space-fall19`](https://github.com/spec-journalism/class-space-fall19) | Mapping space overflow in Fall 2019 classes. | [Jason](https://github.com/jsonkao) |
 | | [`visits-who`](https://github.com/spec-journalism/visits-who) | Scraping and analysis of Columbia Undergraduate Admissions outreach. | [Jason](https://github.com/jsonkao) |
 | | [`survey-2023`](https://github.com/spec-journalism/survey-2023) | Analysis and visualization of the Class of 2023 incoming freshman survey. | [Jason](https://github.com/jsonkao) |
 | | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
@@ -50,5 +51,6 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 | Demo | Repo | Description | Contact |
 |:----:|------|-------------|--------------|
+| [:link:](https://github.com/spec-journalism/spectate-example) | [`spectate`](https://github.com/spec-journalism/spectate) | A generator to scaffold a development environment for building freeform Spectator stories. | [Jason](https://github.com/jsonkao) |
 | | [`spec-kit`](https://github.com/spec-journalism/spec-kit) | Styles and components commonly used by interactives and news features. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/vertical-photo-essay/) | [`vertical-photo-essay`](https://github.com/spec-journalism/vertical-photo-essay) | Photo essay template for vertical images. | [Jason](https://github.com/jsonkao) |
