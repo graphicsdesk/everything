@@ -36,7 +36,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
-| | [`class-space-fall19`](https://github.com/spec-journalism/class-space-fall19) | Mapping space overflow in Fall 2019 classes. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/news/2019/09/19/with-classroom-space-shortage-morningside-heights-campus-forced-to-expand-boundaries/) | [`class-space-fall19`](https://github.com/spec-journalism/class-space-fall19) | Mapping space overflow in Fall 2019 classes. | [Jason](https://github.com/jsonkao) |
 | | [`visits-who`](https://github.com/spec-journalism/visits-who) | Scraping and analysis of Columbia Undergraduate Admissions outreach. | [Jason](https://github.com/jsonkao) |
 | | [`survey-2023`](https://github.com/spec-journalism/survey-2023) | Analysis and visualization of the Class of 2023 incoming freshman survey. | [Jason](https://github.com/jsonkao) |
 | | [`staff-diversity`](https://github.com/spec-journalism/staff-diversity) | Measuring diversity within the Columbia Daily Spectator and comparing staff diversity against other sections and top college newspapers. | [Raeedah](https://github.com/raeedahw) |
