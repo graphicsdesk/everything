@@ -18,6 +18,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 - [Visual Stories](#visual-stories)
 - [Data Reporting](#data-reporting)
 - [Templates](#templates)
+- [Scrapers](#scrapers)
 
 ---
 
@@ -54,3 +55,8 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 | [:link:](https://github.com/spec-journalism/spectate-example) | [`spectate`](https://github.com/spec-journalism/spectate) | A generator to scaffold a development environment for building freeform Spectator stories. | [Jason](https://github.com/jsonkao) |
 | | [`spec-kit`](https://github.com/spec-journalism/spec-kit) | Styles and components commonly used by interactives and news features. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/vertical-photo-essay/) | [`vertical-photo-essay`](https://github.com/spec-journalism/vertical-photo-essay) | Photo essay template for vertical images. | [Jason](https://github.com/jsonkao) |
+
+
+## Scrapers
+
+Scrapers are in private repositories. See the Graphics Budget.
