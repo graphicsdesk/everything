@@ -1,6 +1,6 @@
 # Everything
 
-A list of all our data and graphics reporting.
+A list of all our data and visual reporting.
 
 _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 
