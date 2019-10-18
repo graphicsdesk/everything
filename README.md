@@ -26,7 +26,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
-| | [`linguistics-major`](https://github.com/spec-journalism/linguistics-major) | Decades of Uncertainty: A visual history of the linguistics major. | [Seyla](https://github.com/pseyla) and [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/news/2019/10/18/linguistics-major-visual-history/) | [`linguistics-major`](https://github.com/spec-journalism/linguistics-major) | Decades of Uncertainty: A visual history of the linguistics major. | [Seyla](https://github.com/pseyla) and [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/biomedical-money/) | [`biomedical-money`](https://github.com/spec-journalism/biomedical-money) | Visual production for The Eye's Biomedical Money cover story. | [Jason](https://github.com/jsonkao) |
 | :newspaper: | [`survey-2023-print`](https://github.com/spec-journalism/survey-2023-print) | Analysis and visualization for the 2023 Survey print story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
