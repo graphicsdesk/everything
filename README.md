@@ -1,9 +1,9 @@
 # Everything
 
-A list of all our data and visual reporting.
+Graphics, data, and visual production from the Spec newsroom.
 
 _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
-
+<!--
 _“The greatest value of a picture is when it forces us to notice what we never expected to see.” —John Tukey_
 
 _“The purpose of visualization is insight, not pictures.” —Ben Shneiderman_
@@ -12,12 +12,13 @@ _“Las estadísticas hablan de todos, es decir, de nadie.” —Jaime Serra_. (
 
 _“In short, we use data to find and tell stories. Stories that make a difference. Stories that otherwise would not be told.”_
 
+-->
 
 ## Table of Contents
 
 - [Visual Stories](#visual-stories)
 - [Data Reporting](#data-reporting)
-- [Templates](#templates)
+- [Templates and the Spectate system](#templates)
 - [Scrapers](#scrapers)
 
 ---
@@ -39,6 +40,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
+| | [`construction-cd9`](https://github.com/spec-journalism/construction-cd9) | Construction grievances in Community District 9. | [Fiorella](https://github.com/fiorellach) and [Jason](https://github.com/jsonkao) |
 | | [`archive-scraping`](https://github.com/spec-journalism/archive-scraping) | Scraping the Spec archives for the 100 years of Core story. | [Eve](https://github.com/evewashington) |
 | | [`deerfield-data`](https://github.com/spec-journalism/deerfield-data) | Data analysis and sketching for the Biomedical Money cover story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/2019/09/19/with-classroom-space-shortage-morningside-heights-campus-forced-to-expand-boundaries/) | [`class-space-fall19`](https://github.com/spec-journalism/class-space-fall19) | Mapping space overflow in Fall 2019 classes. | [Jason](https://github.com/jsonkao) |
@@ -62,4 +64,4 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 ## Scrapers
 
-Scrapers are in private repositories. See the Graphics Budget.
+Scrapers with sensitive information (e.g. course registration, human resources, job registration) are in private repositories. Ask Jason for access.
