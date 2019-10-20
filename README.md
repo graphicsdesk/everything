@@ -1,9 +1,9 @@
 # Everything
 
 Graphics, data, and visual production from the Spec newsroom.
-
-_“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 <!--
+_“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
+
 _“The greatest value of a picture is when it forces us to notice what we never expected to see.” —John Tukey_
 
 _“The purpose of visualization is insight, not pictures.” —Ben Shneiderman_
