@@ -26,10 +26,10 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 ## Standalone Stories
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
-| | [`core-instructors`](https://github.com/spec-journalism/core-instructors) | Analyzing the makeup of Core instructors. | [Seyla](https://github.com/pseyla) |
-| [:link:](https://www.columbiaspectator.com/news/2019/10/18/linguistics-major-visual-history/) | [`linguistics-major`](https://github.com/spec-journalism/linguistics-major) | Decades of Uncertainty: A visual history of the linguistics major. | [Seyla](https://github.com/pseyla) and [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`graduate-sex-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
+| | [`core-instructors`](https://github.com/spec-journalism/core-instructors) | Analyzing the makeup of Core instructors. | [Seyla](https://github.com/pseyla) |
 | [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the Net Price Inequity article. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/news/2019/10/18/linguistics-major-visual-history/) | [`linguistics-major`](https://github.com/spec-journalism/linguistics-major) | Decades of Uncertainty: A visual history of the linguistics major. | [Seyla](https://github.com/pseyla) and [Jason](https://github.com/jsonkao) |
 
 ## Interactives and Features
 | Article | Repo | Description | Contact |
