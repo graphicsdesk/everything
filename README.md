@@ -34,6 +34,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 ## Interactives and Features
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
+| [:link:](https://www.columbiaspectator.com/eye-lead/2019/11/15/students-and-faculty-say-gender-based-harassment-and-discrimination-at-columbia-is-systemic-why-are-they-turning-away-from-the-system-built-to-address-it/) | [`eoaa`](https://github.com/spec-journalism/eoaa) | Visual production for The Eye's EOAA and Title IX cover story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/biomedical-money/) | [`biomedical-money`](https://github.com/spec-journalism/biomedical-money) | Visual production for The Eye's Biomedical Money cover story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye/uptown-arts/) | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
