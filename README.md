@@ -2,6 +2,8 @@
 
 Graphics, data reporting, and visual production from the Spec newsroom.
 
+“Has there ever been an enterprise that produced so much data to so little effect as higher education?” —Patricia McGuire, _The Chronicle of Higher Education_
+
 _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 <!--
 _“The greatest value of a picture is when it forces us to notice what we never expected to see.” —John Tukey_
