@@ -2,6 +2,8 @@
 
 Graphics, data reporting, and visual production from the Spec newsroom.
 
+_“Nothing important is ever headlined ‘Here is some data. Hope you find something interesting.’” —Amanda Cox_
+
 _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 
 <!--
