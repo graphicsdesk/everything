@@ -2,13 +2,13 @@
 
 Graphics, data reporting, and visual production from the Spec newsroom.
 
-_“Nothing important is ever headlined ‘Here is some data. Hope you find something interesting.’” —Amanda Cox_
+_“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
 
 _“The purpose of visualization is insight, not pictures.” —Ben Schneiderman_
 
-_“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
-
 <!--
+_“Nothing important is ever headlined ‘Here is some data. Hope you find something interesting.’” —Amanda Cox_
+
 “Has there ever been an enterprise that produced so much data to so little effect as higher education?” —Patricia McGuire, _The Chronicle of Higher Education_
 
 
