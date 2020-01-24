@@ -24,16 +24,17 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 ## Table of Contents
 
-- [Visual and Data Stories](#visual-and-data-stories)
+- [Data Stories](#data-stories)
 - [Interactives and Features](#interactives-and-features)
 - [Data Reporting and Visualization](#data-reporting-and-visualization)
 - [Scrapers](#scrapers)
 
 ---
 
-## Visual and Data Stories
+## Data Stories
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
+| [:link:](https://www.columbiaspectator.com/news/2020/01/23/columbia-tuition-rates-are-among-the-highest-in-the-country-is-it-worth-it/) | [`earnings`](https://github.com/spec-journalism/earnings) | Columbia tuition rates are among the highest in the country. Is it worth it? | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/2019/11/23/who-are-columbia-affiliates-backing-in-2020-campaign-donation-data-shows-booker-in-the-lead-2/) | [`political-candidates`](https://github.com/spec-journalism/political-candidates) | Analyzing campaign donations from Columbia affiliates. | [Charlotte](https://github.com/99zihaol) and [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/news/2019/10/18/linguistics-major-visual-history/) | [`linguistics-major`](https://github.com/spec-journalism/linguistics-major) | Decades of Uncertainty: A visual history of the linguistics major. | [Seyla](https://github.com/pseyla) and [Jason](https://github.com/jsonkao) |
 | | [`core-instructors`](https://github.com/spec-journalism/core-instructors) | Analyzing the makeup of Core instructors. | [Seyla](https://github.com/pseyla) |
