@@ -53,6 +53,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 ## Data Reporting and Visualization
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------| ------- |
+| [:link:](https://www.columbiaspectator.com/news/2020/01/23/columbia-tuition-rates-are-among-the-highest-in-the-country-is-it-worth-it/) | [`earnings-debt-2019`](https://github.com/spec-journalism/earnings-debt-2019) | Analyzing earnings and debt levels of Columbia students. | [Jason](https://github.com/jsonkao) |
 | | [`construction-cd9`](https://github.com/spec-journalism/construction-cd9) | Construction grievances in Community District 9. | [Fiorella](https://github.com/fiorellach) and [Jason](https://github.com/jsonkao) |
 | [:newspaper:](https://spec-journalism.github.io/survey-2023-print/) | [`survey-2023-print`](https://github.com/spec-journalism/survey-2023-print) | Analysis and visualization for the 2023 Survey print story. | [Jason](https://github.com/jsonkao) |
 | | [`archive-scraping`](https://github.com/spec-journalism/archive-scraping) | Scraping the Spec archives for the 100 years of Core story. | [Eve](https://github.com/evewashington) |
