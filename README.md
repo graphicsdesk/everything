@@ -25,7 +25,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 ## Table of Contents
 
 - [Data Stories](#data-stories)
-- [Interactives and Features](#interactives-and-features)
+- [Story Production and Interactives](#story-production-and-interactives)
 - [Data Reporting and Visualization](#data-reporting-and-visualization)
 - [Scrapers](#scrapers)
 
@@ -41,9 +41,10 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/05/04/in-certain-science-and-engineering-fields-sex-diversity-among-graduate-students-is-stagnating-in-others-its-getting-worse/) | [`graduate-sex-diversity`](https://github.com/spec-journalism/graduate-diversity) | Code for the Graduate Student Sex Diversity lead. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/net-price-inequity/) | [`net-price-inequity`](https://github.com/spec-journalism/net-price-inequity) | Code for the Net Price Inequity article. | [Jason](https://github.com/jsonkao) |
 
-## Interactives and Features
+## Story Production and Interactives
 | Article | Repo | Description | Contact |
 |:-------:|------|-------------|--------------|
+| [:link:](https://www.columbiaspectator.com/news/2020/03/13/upscaled-the-cost-of-columbia-construction-for-struggling-12th-avenue-businesses/) | [`manhattanville-businesses`](https://github.com/spec-journalism/manhattanville-businesses) | Upscaled: The cost of Columbia construction for struggling 12th Avenue businesses. | [Charlotte](https://github.com/99zihaol) and [Jenny](https://github.com/jennyjyzhang) |
 | [:link:](https://www.columbiaspectator.com/eye-lead/2019/11/15/students-and-faculty-say-gender-based-harassment-and-discrimination-at-columbia-is-systemic-why-are-they-turning-away-from-the-system-built-to-address-it/) | [`eoaa`](https://github.com/spec-journalism/eoaa) | Visual production for The Eye's EOAA and Title IX cover story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://spec-journalism.github.io/biomedical-money/) | [`biomedical-money`](https://github.com/spec-journalism/biomedical-money) | Visual production for The Eye's Biomedical Money cover story. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
