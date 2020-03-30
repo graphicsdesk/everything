@@ -50,6 +50,7 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 | [:link:](https://www.columbiaspectator.com/news/celebrating-dean-awn/) | [`awn-photo-essay`](https://github.com/spec-journalism/awn-photo-essay) | Code for the photo essay on Dean Awn's funeral. | [Jason](https://github.com/jsonkao) |
 | [:link:](https://www.columbiaspectator.com/eye/uptown-arts/) | [`uptown-arts`](https://github.com/spec-journalism/uptown-arts) | Code for the Uptown Arts feature. | [Jason](https://github.com/jsonkao) and [Raeedah](https://github.com/raeedahw) |
 | [:link:](https://www.columbiaspectator.com/eye/2019/03/26/genealogy/) | [`genealogy`](https://github.com/spec-journalism/genealogy) | Code for the Eastern Genealogical Records feature. | [Jason](https://github.com/jsonkao) |
+| [:link:](https://www.columbiaspectator.com/opinion/2020/03/29/100-words-we-asked-how-covid-19-has-impacted-students-lives-here-are-their-responses/) | [`100-words`](https://github.com/spec-journalism/100-words) | Code for Adaptation of NYT '39 things...' for 100 words: Coronavirus. | [Hong](https://github.com/HongSenDu) and [Raeedah](https://github.com/raeedahw)|
 
 ## Data Reporting and Visualization
 | Article | Repo | Description | Contact |
