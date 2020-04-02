@@ -71,4 +71,8 @@ _“In short, we use data to find and tell stories. Stories that make a differen
 
 ## Scrapers
 
-Scrapers with sensitive information (e.g. course registration, human resources, job registration) are in private repositories. Ask Jason for access.
+Most scrapers with sensitive information (e.g. course registration, human resources, job registration) are in private repositories. If they aren't on the cloud yet, like the ones below, ask Jason for direct access.
+
+| Scraper   | Repo | Description | Contact |
+|:---------:|------|-------------| ------- |
+| Handshake | [`handshake-data`](https://github.com/spec-journalism/handshake-data) | Just job postings right now. Soon: events. | [Jason](https://github.com/jsonkao) |
