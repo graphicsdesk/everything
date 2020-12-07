@@ -1,5 +1,7 @@
 # Everything
 
+(Everything before we had graphicsdesk.github.io)
+
 Graphics, data reporting, and visual production from the Spec newsroom.
 
 _“Graphics in their best can really inspire a sense of awe.” —Amanda Cox_
